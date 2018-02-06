@@ -12,6 +12,7 @@ def bubble_sort(x,sort_way='bigger2small'):
                 if x[i]<x[j]:
                     x[i], x[j] = x[j], x[i]
     return x
+
 print('before sorted %s:'%x)
 print('sorting...')
 bubble_sort(x,sort_way='small2bigger')
