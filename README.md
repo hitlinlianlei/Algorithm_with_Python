@@ -1,2 +1,2 @@
 # Algorithm_with_Python
-Some practice in leetcode
+Some practices in leetcode with python language
